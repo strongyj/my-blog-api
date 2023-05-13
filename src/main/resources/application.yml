@@ -22,7 +22,7 @@ springdoc:
     operations-sorter: alpha
     tags-sorter: alpha
     # swagger 접근 기본 경로
-    path: /swagger
+    path: /api-docs
     # 기본 경로 설정 비활성화 여부
     disable-swagger-default-url: true
     # 문서 확장기능 사용 여부
